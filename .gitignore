@@ -24,3 +24,6 @@ pnpm-debug.log*
 
 # idea
 *.iml
+
+# node package lock
+package-lock.json
